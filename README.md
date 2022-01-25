@@ -1,5 +1,7 @@
 # Kapitan: Generic templated configuration management for Kubernetes, Terraform and other things
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/3a886f34-7341-4ac3-aafd-205378a45d1d.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/kapitan?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/0a91ff35-6c27-4519-877d-54088e3f6526.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/kapitan?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/40d168fb-8e30-40fd-af0c-b017c46dceef.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/kapitan?orgId=561911742905)  
+
 [![Build Status](https://travis-ci.org/kapicorp/kapitan.svg?branch=master)](https://travis-ci.org/kapicorp/kapitan)
 ![](https://img.shields.io/github/pipenv/locked/python-version/kapicorp/kapitan.svg)
 ![](https://img.shields.io/pypi/dm/kapitan)
